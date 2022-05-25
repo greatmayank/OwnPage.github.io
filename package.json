@@ -1,13 +1,13 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "http://greatmayank.com/OwnPage.github.io/",
+  //"homepage": "http://greatmayank.com/OwnPage.github.io/",
   "version": "2.0.0",
   "private": true,
   "author": {
     "name": "M A",
     "email": "greatmayankagrawal@gmail.com",
-    "url": "https://github.com/greatmayank"
+    //"url": "https://github.com/greatmayank"
   },
   "dependencies": {
     "axios": "^0.19.2",
